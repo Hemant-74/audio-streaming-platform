@@ -11,10 +11,6 @@
     font-family: 'Roboto', sans-serif;
 }
 
-.close {
-    display: none;
-}
-
 body {
     background-color: black;
     color: white;
@@ -400,7 +396,7 @@ body {
 @media (max-width: 1200px) {
     .left {
         position: absolute;
-        left: -130%;
+        left: -100%;
         transition: all .3s;
         z-index: 1;
         width: 373px;
@@ -421,6 +417,9 @@ body {
         right: 31px;
         top: 25px;
         width: 29px;
+    }
+    .left.active {
+        left : 0;
     }
 
     .timevol {

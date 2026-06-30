@@ -189,6 +189,59 @@ export const albumData = [
     ]
   },
   {
+    "title": "Darshan Raval",
+    "description": "Darshan Raval songs for you",
+    "coverUrl": "s/Darshan Raval/cover.jpg",
+    "folderName": "Darshan Raval",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Baarish Lete Aana 2.0 Unwind 320 Kbps",
+        "folderName": "Darshan Raval"
+      },
+      {
+        "id": 2,
+        "title": "Chogada Loveyatri A Journey Of Love 320 Kbps",
+        "folderName": "Darshan Raval"
+      },
+      {
+        "id": 3,
+        "title": "Darshan_Raval_-_Mere_Nishaan_(mp3.pm)",
+        "folderName": "Darshan Raval"
+      },
+      {
+        "id": 4,
+        "title": "Dil Meri Na Sune(KoshalWorld.Com)",
+        "folderName": "Darshan Raval"
+      },
+      {
+        "id": 5,
+        "title": "Ek Tarfa Darshan Raval 320 Kbps",
+        "folderName": "Darshan Raval"
+      },
+      {
+        "id": 6,
+        "title": "Kamariya Mitron 320 Kbps",
+        "folderName": "Darshan Raval"
+      },
+      {
+        "id": 7,
+        "title": "Mahiye Jinna Sohna Darshan Raval 320 Kbps",
+        "folderName": "Darshan Raval"
+      },
+      {
+        "id": 8,
+        "title": "Mujhe Peene Do Darshan Raval 320 Kbps",
+        "folderName": "Darshan Raval"
+      },
+      {
+        "id": 9,
+        "title": "Preet Re Dhadak 2 320 Kbps",
+        "folderName": "Darshan Raval"
+      }
+    ]
+  },
+  {
     "title": "Karan Aujla",
     "description": "Karan Aujla for you",
     "coverUrl": "s/Karan Aujla/cover.jpg",
